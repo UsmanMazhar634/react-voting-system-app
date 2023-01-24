@@ -1,0 +1,14 @@
+.mb-4 {
+  display: flex;
+  justify-content: center;
+}
+
+.text-color {
+  color: #a10c0c; /* red */
+}
+
+h5.mb-4.text-color {
+  font-family: 'Arial', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+}
